@@ -7,6 +7,7 @@ import Teachers from './Teachers';
 import Classmates from './Classmates';
 import Messages from './Messages';
 
+
 const MainPage = () => {
   return (
     <div>
